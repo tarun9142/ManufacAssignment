@@ -21,10 +21,11 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `Wine Data Set`
+This is the basic dataset used for calculation.
 [Wine Data Set](https://drive.google.com/file/d/1td86FL0GyVYcKBUGY-8HX_wgeSDxWAsa/view)
 
-### `Table 1 shows the flavanoid mean mode and median grouped by class, Class is the alcohol key in the database`
+## `Table 1 shows the flavanoid mean mode and median grouped by class, Class is the alcohol key in the database`
 ![Table 1](./src/resources/Table1.png?raw=true "Title")
 
-### `Table 2 shows the Gamma mean mode and median grouped by class, Gamma is calculated as "Gamma = (Ash * Hue) / Magnesium". Class is the alcohol key in the database`
+## `Table 2 shows the Gamma mean mode and median grouped by class, Gamma is calculated as "Gamma = (Ash * Hue) / Magnesium". Class is the alcohol key in the database`
 ![Table 2](./src/resources/Table2.png?raw=true "Gamma")
